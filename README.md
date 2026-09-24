@@ -2,7 +2,7 @@
 
 I'm a Computer Science student interested in **Software Engineering, AI/ML, and building useful systems**.
 
-I like working across the stack — from training ML models and building AI systems to designing APIs, evaluation pipelines, and deploying applications.
+I like working across the stack - from training ML models and building AI systems to designing APIs, evaluation pipelines, and deploying applications.
 
 Currently:
 - 🧠 Exploring **AI agents, LLMs, RAG & evaluation**
