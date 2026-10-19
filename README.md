@@ -1,4 +1,4 @@
-# Hey, I'm Shreyas 👋
+# Hey, I'm Shreyas
 
 I'm a Computer Science student interested in **Software Engineering, AI/ML, and building useful systems**.
 
